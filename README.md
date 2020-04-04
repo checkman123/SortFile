@@ -1,8 +1,8 @@
 # SortFile
 The program read in the file and sorted it alphabetically. The program can assume that each line of the file is a single word.
 Example Output:
-2
-&c
+-2
+-&c
 1st
 2D
 3D
